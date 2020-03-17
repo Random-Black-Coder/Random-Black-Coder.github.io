@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 This is the Data Science Portfolio for Yahkeef Davis. It will host all of my major data science projects.
-currently it only holds brief descriptions of each project.
+Currently it only holds brief descriptions of each project.
 
 ## Coming Soon
 
